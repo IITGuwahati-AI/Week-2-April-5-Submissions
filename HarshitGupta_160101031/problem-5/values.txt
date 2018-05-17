@@ -1,0 +1,7 @@
+(5b - i)
+theta from linear regression : 
+[[ 3.27267894e+00]
+ [-1.48647108e-03]]
+
+(5c - iii)
+average error on test test : 
